@@ -2,7 +2,7 @@
 
 ---
 
-Code for "Investigating the Effectiveness of HyperTuning via Gisting".
+Code for [Investigating the Effectiveness of HyperTuning via Gisting](https://arxiv.org/abs/2402.16817).
 
 Cite:
 
@@ -11,7 +11,7 @@ Cite:
   author    = {Phang, Jason},
   title    = {{I}nvestigating the {E}ffectiveness of {H}yperTuning via {G}isting},
   year    = {2024},
-  journal   = {arXiv preprint},
+  journal   = {arXiv preprint 2402.16817},
 }
 ```
 
